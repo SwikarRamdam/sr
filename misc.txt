@@ -1,0 +1,8 @@
+education and experience tabs are not working fine
+grid portion of my services not working-minmax solved it
+hover effect of services not working
+<i class="fa-light fa-link"></i>
+add social links links
+
+Name in the logo
+change gradient
